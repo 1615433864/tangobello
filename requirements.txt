@@ -1,0 +1,11 @@
+bottle==0.12.13
+gevent==1.2.1
+gunicorn==19.6.0
+peewee==2.8.8
+PyMySQL==0.7.9
+marshmallow==2.12.2
+voluptuous==0.9.3
+requests==2.13.0
+bcrypt==3.1.2
+pyjwt==1.4.2
+boto3==1.4.4
