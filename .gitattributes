@@ -1,1 +1,6 @@
-* linguist-language=python
+*.css linguist-language=python
+*.js linguist-language=python
+*.txt linguist-language=python
+*.md linguist-language=python
+*.py linguist-language=python
+*.ini linguist-language=python
